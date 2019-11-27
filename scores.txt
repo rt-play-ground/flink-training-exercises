@@ -1,0 +1,14 @@
+sachin,100
+rahul,110
+david,80
+george,20
+raj,120
+Gayle,150
+Brendon,80
+sachin,70
+rahul,130
+david,40
+george,60
+raj,75
+Gayle,15
+Brendon,35
